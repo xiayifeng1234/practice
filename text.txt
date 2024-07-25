@@ -1,1 +1,2 @@
 # practice
+こんにちは、git練習
